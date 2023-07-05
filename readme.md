@@ -9,15 +9,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roshan-kumar7989" target="blank">
-<img align="center" src="https://github.com/roshan798/roshan798/assets/107319136/d2337476-f501-439f-8b09-dc54b09fd108" alt="roshan-kumar7989" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/rsahu7989" target="blank">
-<img align="center" src="https://github.com/roshan798/roshan798/assets/107319136/a36619f0-c5bd-4b6f-8778-e4fa99041c0a" alt="rsahu7989" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/roshan_kumar7989" target="blank"><img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshan_kumar7989" height="30" width="40" />
+
+<a href="https://www.leetcode.com/roshan_kumar7989" target="blank">
+  <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshan_kumar7989" height="30" width="40" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/roshan_sahu" target="blank">
-<img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="roshan_sahu" height="30" width="40" />
+  <img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="roshan_sahu" height="30" width="40" />
+</a>
+  
+<a href="https://linkedin.com/in/roshan-kumar7989" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="roshan-kumar7989" height="30" width="40"/>
+  
+</a>
+<a href="https://www.hackerrank.com/rsahu7989" target="blank">
+  <img align="center" src="https://cdn.cdnlogo.com/logos/h/58/hackerrank.svg" alt="rsahu7989" height="30" width="40">
 </a>
 </p>
 
