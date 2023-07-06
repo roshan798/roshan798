@@ -1,4 +1,4 @@
-
+<h3 align="center">Hi i am Roshan Kumar. A passionate frontend developer from India</h3>
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshan798](https://github.com/roshan798)
@@ -86,7 +86,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan798&" alt="roshan798" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan798&label=Profile%20views&color=0e75b6&style=flat" alt="roshan798" /> </p>
 
