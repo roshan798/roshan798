@@ -1,5 +1,6 @@
 <h3 align="center">Hi i am Roshan Kumar. A passionate frontend developer from India</h3>
-- 🌱 I’m currently learning **React**
+<br/>
+- 🌱 I’m currently learning React
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshan798](https://github.com/roshan798)
 
