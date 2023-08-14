@@ -1,5 +1,6 @@
-<h3 align="center">Hi i am Roshan Kumar. A passionate frontend developer from India</h3>
+<h3 align="center">Hi i am Roshan Kumar. A passionate MERN stack developer from India</h3>
 <br/>
+
 - 🌱 I’m currently learning React
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshan798](https://github.com/roshan798)
@@ -83,12 +84,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan798&show_icons=true&theme=dark&locale=en&layout=compact" alt="roshan798" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan798&show_icons=true&locale=en" alt="roshan798" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan798&" alt="roshan798" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan798&" alt="roshan798" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan798&label=Profile%20views&color=0e75b6&style=flat" alt="roshan798" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan798" alt="roshan798" /></a> </p>
 
