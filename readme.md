@@ -1,7 +1,7 @@
 <h3 align="center">Hi i am Roshan Kumar. A passionate MERN stack developer from India</h3>
 <br/>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web3, Solidity
 
 - 👨‍💻 All of my projects are available at [https://github.com/roshan798](https://github.com/roshan798)
 
