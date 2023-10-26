@@ -70,8 +70,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan798&show_icons=true&theme=dark&locale=en&layout=compact" alt="roshan798" /></p>
 
-
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan798&" alt="roshan798" /></p>
+![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan798&theme=gruvbox&show_icons=true)
 
 [![An image of @roshan798's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshan798)](https://holopin.io/@roshan798)
 
