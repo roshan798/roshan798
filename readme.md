@@ -68,7 +68,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan798&show_icons=true&theme=dark&locale=en&layout=compact" alt="roshan798" /></p>
 
 ![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan798&theme=gruvbox&show_icons=true)
 
