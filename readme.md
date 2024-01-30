@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node,Express, React**
 
-- 📫 How to reach me **rsahu7989@gmail.com**
+- 📫 How to reach me **roshankumar_2022@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
