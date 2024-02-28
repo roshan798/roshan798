@@ -67,7 +67,7 @@
 </p>
 
 
-![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan798&theme=gruvbox&show_icons=true)
+![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=roshan798&theme=gruvbox&show_icons=true) &nbsp; [![roshan798's GitHub | Stats](https://stats.quine.sh/roshan798/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=roshan798)
 
 [![An image of @roshan798's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshan798)](https://holopin.io/@roshan798)
 
